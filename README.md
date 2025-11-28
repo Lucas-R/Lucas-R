@@ -31,5 +31,5 @@
 <!-- Mensagem de boas-vindas -->
 <div align="center" style="margin-top: 30px;">
   <h2>👋 Olá, eu sou Lucas Rodrigues!</h2>
-  <p>Desenvolvedor Fullstack | Apaixonado por tecnologias Web | Sempre aprendendo e compartilhando conhecimento 🚀</p>
+  <p>Desenvolvedor Fullstack | Sempre aprendendo e compartilhando conhecimento 🚀</p>
 </div>
